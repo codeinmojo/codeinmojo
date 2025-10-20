@@ -1,4 +1,4 @@
-# CodeInMojo  
+# CodeInMojo  🔥
 🔥 Exploring the power of Mojo.  
 💡 Writing fast, simple, and smart code.
 
